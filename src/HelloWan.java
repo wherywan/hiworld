@@ -1,5 +1,5 @@
 public class HelloWan {
     public static void main(String[] args) {
-        System.out.println("wajfdjfdgddkdhgfdjgjgjgdfhdhjgkgjdkg");
+        System.out.println("wajfdjfdgddkdhgfdjgjgjcdcdvgdfhdhjgkgjdkg");
     }
 }
